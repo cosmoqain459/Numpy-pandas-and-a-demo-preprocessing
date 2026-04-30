@@ -34,4 +34,4 @@ Python · Pandas · NumPy · Scikit-learn · Matplotlib · Seaborn
 
 ## About
 These notebooks are part of my learning journey in data science,
-built while preparing for GSoC 2026 with HumanAI.
+
